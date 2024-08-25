@@ -100,6 +100,8 @@ st.write("""
 - **Technical Tools**: NMS, HES, MDMS, VMS, WFM, Grafana, Streamlit.
 - **Programming**: Python, Go (beginner), Shell scripts, Embedded tools (Arduino, ESP8266).
 - **Software & IDEs**: Git, FogBugz, Jira, DataGrip, VSCode.
+- **GIS Tools**: Folium Maps,Google Earth,tableau,ArkGIS.
+- **SLA Monitoring Apps**: Grafana /Streamlit/ Falsk Dashboards.
 """)
 st.markdown("---")
 
