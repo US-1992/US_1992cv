@@ -16,7 +16,7 @@ st.markdown("---")
 # Career Objective
 st.header("Career Objective")
 st.write("""
-Passionate about addressing infrastructure challenges in India's electricity domain by digitizing management information systems (MIS) and reducing electricity losses. Seeking to leverage extensive experience in smart metering, software development, and project management to drive innovative solutions in the industry.
+Passionate about transforming India's electricity infrastructure through digitization and innovative management information systems (MIS). Seeking to leverage over a decade of experience in smart metering, software development, and project management to lead large-scale projects, reduce electricity losses, and drive operational efficiency in challenging environments.
 """)
 st.markdown("---")
 
