@@ -27,7 +27,7 @@ st.write("""
 - 📈Managed the Service level agreements (SLA) 
 - 🛠️Successfully led the deployment of 60K RF and GPRS smart meters across 60,000 sq km in Ladakh, overcoming extreme environmental challenges.
 - 🛠️Managed the installation and operations of 40K smart meters in Gaya, Bihar, driving significant improvements in electricity distribution efficiency.
-- 📐Architected and led the backend infrastructure for embedded DCUs, enhancing the scalability and reliability of smart metering systems.
+- 📐Architected and led the backend infrastructure for embedded DCUs, enhancing the scalability and reliability of smart metering systems.\n\n
 """)
 st.markdown("\n---\n")
 
