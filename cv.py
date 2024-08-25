@@ -22,6 +22,8 @@ Passionate about addressing infrastructure challenges in India's electricity dom
 # Key Achievements
 st.header("Key Achievements")
 st.write("""
+- 🧪✅ Successfully led the Site acceptance Test (SAT) of 50K smart meters.
+- 📈   Managed the Service level agreements (SLA) 
 - Successfully led the deployment of 60K RF and GPRS smart meters across 60,000 sq km in Ladakh, overcoming extreme environmental challenges.
 - Managed the installation and operations of 40K smart meters in Gaya, Bihar, driving significant improvements in electricity distribution efficiency.
 - Architected and led the backend infrastructure for embedded DCUs, enhancing the scalability and reliability of smart metering systems.
