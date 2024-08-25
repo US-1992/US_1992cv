@@ -37,7 +37,7 @@ st.header("Professional Experience")
 st.subheader("Polaris Smart Metering (2014 - Present)")
 
 st.write("""
-**HES Development Engineer**  
+**General Manager (SLAs) & SDE-II**  
 _Dec 2023 - Present_  
 - Currently leading the development of Head-End Systems (HES) for UPPCL, Manipur, and West Bengal, focusing on enhancing data management and system integration.
 """)
