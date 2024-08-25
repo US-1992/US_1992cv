@@ -98,6 +98,6 @@ st.header("Self-Declaration")
 st.write(f"""
 I, Umesh Kumar Kumawat, hereby declare that all the information provided above is true to the best of my knowledge and belief. I understand that any false information or misrepresentation may lead to the rejection of my application or termination of my employment.
 
-**Date:** {str(datetime.datetime.utcnow()+relativedelta(minutes=330))}  
+**Date:** {str(datetime.datetime.utcnow()+relativedelta(minutes=330)).split('.')[0]}  
 **Place:** [Your Location]
 """)
