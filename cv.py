@@ -6,9 +6,9 @@ st.title("Umesh Kumar Kumawat")
 st.markdown("---")
 
 # Contact Information
-st.write("""📞 
+st.write(""" 
 **Date Of Birth:** 12-Aug-1992  
-**Phone:** +91 9664308014  
+**📞:** +91 9664308014  
 **Email:** [umeshsingatiya@gmail.com](mailto:umeshsingatiya@gmail.com)
 """)
 st.markdown("---")
