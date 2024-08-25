@@ -29,7 +29,7 @@ st.write("""
 - 🛠️Managed the installation and operations of 40K smart meters in Gaya, Bihar, driving significant improvements in electricity distribution efficiency.
 - 📐Architected and led the backend infrastructure for embedded DCUs, enhancing the scalability and reliability of smart metering systems.
 """)
-st.markdown("---")
+st.markdown("\n---\n")
 
 # Professional Experience
 st.header("Professional Experience")
