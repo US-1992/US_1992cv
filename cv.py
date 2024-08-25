@@ -103,7 +103,7 @@ st.write("""
 - **GIS Tools**: Folium Maps,Google Earth,Tableau,ArkGIS.
 - **SLA Monitoring Tools**: Grafana, Streamlit, Falsk Dashboards.
 - **MIS reportings Tools**: Excel, Gsheet, Grafana.
-- **Team Management **: Trello, Slack.
+- **Team Management**: Trello, Slack.
 """)
 st.markdown("---")
 
