@@ -2,7 +2,8 @@ import streamlit as st
 import datetime
 from dateutil.relativedelta import relativedelta
 # Title
-st.title("Umesh Kumar Kumawat - Resume")
+st.title("Umesh Kumar Kumawat")
+st.markdown("---")
 
 # Contact Information
 st.write("""
