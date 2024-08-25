@@ -106,6 +106,15 @@ st.write("""
 - **Team Management**: Trello, Slack.
 """)
 st.markdown("---")
+st.header("Technical Tools & Technologies")
+st.write("""
+- **Monitoring & Reporting**: Grafana, Streamlit, Flask Dashboards.
+- **Programming Languages**: Python, Go (beginner), Shell scripts, Embedded tools (Arduino, ESP8266).
+- **Software & IDEs**: Git, FogBugz, Jira, DataGrip, VSCode.
+- **GIS Tools**: Folium Maps, Google Earth, Tableau, ArcGIS.
+- **Team Collaboration**: Trello, Slack.
+""")
+st.markdown("---")
 
 # Self-Declaration
 st.header("Self-Declaration")
