@@ -5,6 +5,7 @@ st.title("Umesh Kumar Kumawat - Resume")
 
 # Contact Information
 st.write("""
+**Date Of Birth:** 12-Aug-1992  
 **Phone:** +91 9664308014  
 **Email:** [umeshsingatiya@gmail.com](mailto:umeshsingatiya@gmail.com)
 """)
