@@ -31,6 +31,12 @@ st.header("Professional Experience")
 st.subheader("Polaris Smart Metering (2014 - Present)")
 
 st.write("""
+**HES Development Engineer**  
+_Dec 2023 - Present_  
+- Currently leading the development of Head-End Systems (HES) for UPPCL, Manipur, and West Bengal, focusing on enhancing data management and system integration.
+""")
+
+st.write("""
 **Senior Project Manager & Deputy General Manager**  
 _Ladakh Power Development & Distribution (LPDD) - AMISP Project_  
 _April 2023 - Nov 2023_  
@@ -67,11 +73,6 @@ _2014 - 2016_
 - Managed on-ground operations for the deployment of smart metering systems, ensuring successful implementation in diverse environments.
 """)
 
-st.write("""
-**HES Development Engineer**  
-_Dec 2023 - Present_  
-- Currently leading the development of Head-End Systems (HES) for UPPCL, Manipur, and West Bengal, focusing on enhancing data management and system integration.
-""")
 
 # Education
 st.header("Education")
