@@ -9,7 +9,7 @@ st.markdown("---")
 st.write(""" 
 **Date Of Birth:** 12-Aug-1992  
 **📞:** +91 9664308014  
-**Email:** [umeshsingatiya@gmail.com](mailto:umeshsingatiya@gmail.com)
+**📧:** [umeshsingatiya@gmail.com](mailto:umeshsingatiya@gmail.com)
 """)
 st.markdown("---")
 
