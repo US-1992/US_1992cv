@@ -93,17 +93,12 @@ st.markdown("---")
 # Core Competencies
 st.header("Core Competencies")
 st.write("""
-- **AMISP Project Management**: Large-scale meter deployment, remote and challenging terrain execution, cross-functional team leadership.
+- **Project Management**: Large-scale meter deployment, remote and challenging terrain execution, cross-functional team leadership.
 - **RF Communication Protocols**: Expertise in Tiny Mesh, Wirepas for efficient communication in AMI networks.
 - **Infrastructure Development**: Embedded systems architecture, backend infrastructure, HES development.
 - **Data Management**: Proficient in MySQL, PostgreSQL, Redis, Kafka.
-- **Technical Tools**: NMS, HES, MDMS, VMS, WFM, Grafana, Streamlit.
-- **Programming**: Python, Go (beginner), Shell scripts, Embedded tools (Arduino, ESP8266).
-- **Software & IDEs**: Git, FogBugz, Jira, DataGrip, VSCode.
-- **GIS Tools**: Folium Maps,Google Earth,Tableau,ArkGIS.
-- **SLA Monitoring Tools**: Grafana, Streamlit, Falsk Dashboards.
-- **MIS reportings Tools**: Excel, Gsheet, Grafana.
-- **Team Management**: Trello, Slack.
+- **Data Analysis**: MIS Prepare for Project Tracking.
+- **SLA Management**: Troubleshoot the Gap and Cordinate with team get SLAs achieved.
 """)
 st.markdown("---")
 st.header("Technical Tools & Technologies")
