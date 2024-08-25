@@ -11,6 +11,7 @@ st.write("""
 **Phone:** +91 9664308014  
 **Email:** [umeshsingatiya@gmail.com](mailto:umeshsingatiya@gmail.com)
 """)
+st.markdown("---")
 
 # Career Objective
 st.header("Career Objective")
