@@ -18,6 +18,7 @@ st.header("Career Objective")
 st.write("""
 Passionate about addressing infrastructure challenges in India's electricity domain by digitizing management information systems (MIS) and reducing electricity losses. Seeking to leverage extensive experience in smart metering, software development, and project management to drive innovative solutions in the industry.
 """)
+st.markdown("---")
 
 # Key Achievements
 st.header("Key Achievements")
@@ -28,6 +29,7 @@ st.write("""
 - 🛠️Managed the installation and operations of 40K smart meters in Gaya, Bihar, driving significant improvements in electricity distribution efficiency.
 - 📐Architected and led the backend infrastructure for embedded DCUs, enhancing the scalability and reliability of smart metering systems.
 """)
+st.markdown("---")
 
 # Professional Experience
 st.header("Professional Experience")
@@ -77,6 +79,7 @@ _2014 - 2016_
 - Managed on-ground operations for the deployment of smart metering systems, ensuring successful implementation in diverse environments.
 """)
 
+st.markdown("---")
 
 # Education
 st.header("Education")
@@ -85,6 +88,7 @@ st.write("""
 B.K. Birla Institute of Engineering and Technology, Pilani  
 _2010 - 2014_
 """)
+st.markdown("---")
 
 # Core Competencies
 st.header("Core Competencies")
@@ -97,6 +101,7 @@ st.write("""
 - **Programming**: Python, Go (beginner), Shell scripts, Embedded tools (Arduino, ESP8266).
 - **Software & IDEs**: Git, FogBugz, Jira, DataGrip, VSCode.
 """)
+st.markdown("---")
 
 # Self-Declaration
 st.header("Self-Declaration")
